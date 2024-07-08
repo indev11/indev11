@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **indradev601@gmail.com**
 
-- 📄 Know about my experiences [aiapply.co/r/668c190e7118c](aiapply.co/r/668c190e7118c)
+- 📄 Know about my experiences [Resume](https://github.com/indev11/indev11/blob/main/Resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
