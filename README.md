@@ -1,24 +1,65 @@
-<h1 align="center">Hi 👋, I'm Indradev</h1>
-<h3 align="center">A DevOps Engineer in the making</h3>
+<h1 align="left">Helu There, I'm Indradev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indev11&label=Profile%20views&color=0e75b6&style=flat" alt="indev11" /> </p>
+###
 
-- 🌱 I’m currently learning **Devops • Linux • Docker • AWS • Jenkins • GoLang • Python**
+<h2 align="left">About me</h2>
 
-- 📫 How to reach me **indradev601@gmail.com**
+###
 
-- 📄 Know about my experiences [Resume Here !](https://github.com/indev11/indev11/blob/main/Resume.pdf)
+<p align="left">🌟 **B.Tech grad from CUSAT** | Passionate about crafting **scalable systems** and **automating workflows**.  <br><br>I’m diving deep into:  <br>☁️ Cloud tech (**AWS**)  <br>🐳 DevOps tools (**Docker**, **Kubernetes**, **Git**)  <br>🔧 **System administration** & **CI/CD pipelines** to connect code and infrastructure  <br><br>
+### When I’m not coding...  <br>- 🧩 Struggling (and conquering!) **DSA challenges**  <br>- 🐧 Tinkering with **Linux** and scripting in **Bash**  <br>- 🎮 Building **gaming servers** or tweaking **game mods**  <br><br>💻 Check out my projects below—I’m always up for a collab or a tech chat! Let’s connect!  <br><br>📫 **indradev601@gmail.com** |</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/indev11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="indev11" height="30" width="40" /></a>
-<a href="https://instagram.com/indra.dev11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1ndradev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ghoztye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ghostyetv" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/indradevs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/ghostye11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ghostyetv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="56" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/1ndradev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indev11&show_icons=true&locale=en" alt="indev11" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indev11&" alt="indev11" /></p>
+<h2 align="left">Languages and Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<img align="right" height="214" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE5cTE3NTZ0enE3Z3Vjb2M5azUyZmdzcHUyczZvdG41Mm9wMDhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
+
+###
