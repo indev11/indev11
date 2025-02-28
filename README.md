@@ -6,8 +6,8 @@
 
 ###
 
-<p align="left">🌟 **B.Tech grad from CUSAT** | Passionate about crafting **scalable systems** and **automating workflows**.  <br><br>I’m diving deep into:  <br>☁️ Cloud tech (**AWS**)  <br>🐳 DevOps tools (**Docker**, **Kubernetes**, **Git**)  <br>🔧 **System administration** & **CI/CD pipelines** to connect code and infrastructure  <br><br>
-### When I’m not coding...  <br>- 🧩 Struggling (and conquering!) **DSA challenges**  <br>- 🐧 Tinkering with **Linux** and scripting in **Bash**  <br>- 🎮 Building **gaming servers** or tweaking **game mods**  <br><br>💻 Check out my projects below—I’m always up for a collab or a tech chat! Let’s connect!  <br><br>📫 **indradev601@gmail.com** |</p>
+🌟 **B.Tech grad from CUSAT** | Passionate about crafting **scalable systems** and **automating workflows**.  <br><br>I’m diving deep into:  <br>☁️ Cloud tech (**AWS**)  <br>🐳 DevOps tools (**Docker**, **Kubernetes**, **Git**)  <br>🔧 **System administration** & **CI/CD pipelines** to connect code and infrastructure  <br><br>
+### When I’m not coding...  <br>- 🧩 Struggling (and conquering!) **DSA challenges**  <br>- 🐧 Tinkering with **Linux** and scripting in **Bash**  <br>- 🎮 Building **gaming servers** or tweaking **game mods**  <br><br>💻 Check out my projects below—I’m always up for a collab or a tech chat! Let’s connect!  <br><br>📫 **indradev601@gmail.com** 
 
 ###
 
