@@ -15,7 +15,7 @@
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
-<img width="640" src="./assets/typing-terminal.svg" alt="Building apps and automating infrastructure; studying AI; learning in public." />
+<img width="640" src="./assets/typing-v2.svg" alt="Building apps and automating infrastructure; studying AI; learning in public." />
 
 </div>
 
