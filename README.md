@@ -19,6 +19,8 @@ When I’m not coding:
 🧩 Take on **DSA challenges**  
 🐧 Tinker with **Linux** and write **Bash scripts**  
 
+🌍 **Currently building:** [LearnRealQuick](https://indev11.github.io/learnrealquick/), a free, private language course that works offline, as a web app and a Windows app (Svelte, TypeScript, Tauri). German from A1 to C1 first, other languages later.  
+
 📬 **Reach out:** indevin11@gmail.com  
 💬 Always up for a collaboration or a good tech chat!
 
@@ -63,6 +65,12 @@ When I’m not coding:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
   <img width="15" />
