@@ -1,94 +1,73 @@
-<h1 align="left">Hey there, I'm Indradev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="center">
 
-###
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ██╗███╗   ██╗██████╗ ██████╗  █████╗ ██████╗ ███████╗██╗   ██╗   ║
+║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║   ║
+║   ██║██╔██╗ ██║██║  ██║██████╔╝███████║██║  ██║█████╗  ██║   ██║   ║
+║   ██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║██║  ██║██╔══╝  ╚██╗ ██╔╝   ║
+║   ██║██║ ╚████║██████╔╝██║  ██║██║  ██║██████╔╝███████╗ ╚████╔╝    ║
+║   ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝     ║
+║                                                                    ║
+║                         AI · DevOps · Apps                         ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-<h2 align="left">About Me</h2>
+<img width="640" src="./assets/typing-terminal.svg" alt="Building apps and automating infrastructure; studying AI; learning in public." />
 
-###
-
-🎓 Currently pursuing a **Master's in Artificial Intelligence** at the **University of Passau**.<br>  
-💡 B.Tech graduate from **CUSAT**, with a strong interest in building **scalable systems** and **automated infrastructure**.
-
-I’m diving deep into:  
-☁️ **Cloud technologies** (AWS, GCP)  
-🐳 **DevOps tools** (Docker, Kubernetes, Git, Ansible)  
-🔧 **System Administration** & **CI/CD Pipelines** to bridge code with infrastructure  
-
-When I’m not coding:  
-🎮 I host & mod **game servers**  
-🧩 Take on **DSA challenges**  
-🐧 Tinker with **Linux** and write **Bash scripts**  
-
-🌍 **Currently building:** [LearnRealQuick](https://indev11.github.io/learnrealquick/), a free, private language course that works offline, as a web app and a Windows app (Svelte, TypeScript, Tauri). German from A1 to C1 first, other languages later.  
-
-📬 **Reach out:** indevin11@gmail.com  
-💬 Always up for a collaboration or a good tech chat!
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/indradevs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/ghostye11" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="40" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@ghostyetv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="56" height="40" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/1ndradev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="Instagram" />
-  </a>
 </div>
 
-###
+### About Me
 
-<h2 align="left">Languages & Tools</h2>
+- 🎓 **MSc in Artificial Intelligence · University of Passau**
+- 🏫 **B.Tech · CUSAT**
+- 🔭 Focused on **DevOps, cloud and automation**: Docker, Kubernetes, Ansible, CI/CD, and **Linux** administration
+- 🛠️ Building apps on the side: **TypeScript, Svelte and Tauri**
+- 🎮 I host and mod **game servers**, and work through **DSA challenges** for fun
 
-###
+### Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Adobe Premiere Pro" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-</div>
+- 🌍 **[LearnRealQuick](https://indev11.github.io/learnrealquick/)**: a free, private language course that runs offline as a web app and a Windows app. German A1 to C1 first.
+- 🎮 **[mine-ops](https://github.com/indev11/mine-ops)**: deploy and manage a Minecraft server with Ansible.
+- ☁️ **[gcp-project](https://github.com/indev11/gcp-project)**: a Flask app on GKE with Cloud Build CI/CD.
+- 🐍 **[python-for-devops](https://github.com/indev11/python-for-devops)**: learning Python from a DevOps engineer's point of view.
 
-###
+### Tech Stack
 
-<img align="right" height="214" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE5cTE3NTZ0enE3Z3Vjb2M5azUyZmdzcHUyczZvdG41Mm9wMDhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-111111?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Svelte-111111?style=flat-square&amp;logo=svelte&amp;logoColor=white" alt="Svelte" />
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-111111?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Ansible-111111?style=flat-square&amp;logo=ansible&amp;logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indev11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&amp;logo=tauri&amp;logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+</p>
+
+### Contact
+
+<p align="center">
+  <a href="mailto:indevin11@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/indradevs"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/ghostye11"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
+</p>
+
+---
+
+Feedback, bug reports and collaboration ideas are welcome in the issues of the relevant repository.
